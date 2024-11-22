@@ -1,5 +1,5 @@
 # Get-Started-with-Numpy
-NUMPY 
+NUMPY ...............
 
 ![image](https://github.com/Dubeyrock/Get-Started-with-Numpy/assets/96882359/8d9adf0b-b6bc-49f8-8a5c-de69606968c0) 
 
